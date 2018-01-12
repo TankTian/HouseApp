@@ -3,7 +3,7 @@
 ### Build
 #### 1. maven install
 1. 克隆代码到本地
-2. 到项目根目录，执行 ```maven install -f pom.xml -s settings.xml ``` 编译
+2. 到项目根目录，执行 ```mvn install -f pom.xml -s settings.xml ``` 编译
 
 #### 2. build docker images
 1. 到项目的根目录
